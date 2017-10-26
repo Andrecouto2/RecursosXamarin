@@ -37,11 +37,11 @@ C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\res\layout\tool
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\res\values\styles.xml
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\R.cs.flag
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\uploadflags.txt
-C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\XF.Recursos.dll.mdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\XF.Recursos.dll.mdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\XF.Recursos.Android.dll.mdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb

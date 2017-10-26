@@ -18,3 +18,4 @@ C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.dll
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.pdb
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Estilo.DinamicoView.xaml.g.cs
 C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Estilo.TriggersView.xaml.g.cs
+C:\xamarin\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Theme.ThemeView.xaml.g.cs
